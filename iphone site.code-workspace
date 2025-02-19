@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "iphone site",
+			"path": "."
+		},
+		{
+			"name": "apple pic",
+			"path": "../apple pic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iphone site"
+	}
+}
